@@ -2,7 +2,7 @@ import Discord from 'discord.js';
 
 const client = new Discord.Client();
 
-const TOKEN_API = 'NzYyNzEyNTAxODA0MDcyOTcw.X3tJXg.B2E7kZGjBL2RxouUKJl78Lx0RBg';
+const TOKEN_API = 'NzYyNzEyNTAxODA0MDcyOTcw.X3tJXg.uLJXTDQ0Yimbpw8ATVcyRdTw5bg';
 
 client.on('ready', ()=>{
     console.log(`Bot logged at: ${client.user.tag}`);
